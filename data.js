@@ -13,8 +13,8 @@ const SITE = {
     tagline: "Securing families across Haryana for 25 years.",
     experience: 25,
     city: "Mahendergarh, Haryana",
-    mobile: "9050801035",
-    whatsapp: "919050801035",            // country code + number, no +
+    mobile: "9050801036",
+    whatsapp: "919050801036",            // country code + number, no +
     email: "munishkumar.lic@gmail.com",  // <-- change to real email
     licCode: "LIC Licensed Agent",       // optional agent/license code
   },
